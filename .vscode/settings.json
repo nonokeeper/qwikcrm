@@ -1,0 +1,8 @@
+{
+  "css.lint.unknownAtRules": "ignore",
+  "material-icon-theme.activeIconPack": "qwik",
+  "emmet.includeLanguages": {
+    "typescriptreact": "html"
+  },
+  "git.ignoreLimitWarning": true
+}
